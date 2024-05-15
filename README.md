@@ -60,10 +60,11 @@ $$\nabla_x \log p_t(y|x) = - \text{guidance}  \cdot  \nabla_x \Big[ \frac12 \| \
 If you find this useful in your research, please consider citing our paper.
 
 ```
-@article{yuan2023reward,
-  title={Reward-Directed Conditional Diffusion: Provable Distribution Estimation and Reward Improvement},
+@article{yuan2024reward,
+  title={Reward-directed conditional diffusion: Provable distribution estimation and reward improvement},
   author={Yuan, Hui and Huang, Kaixuan and Ni, Chengzhuo and Chen, Minshuo and Wang, Mengdi},
-  journal={arXiv preprint arXiv:2307.07055},
-  year={2023}
+  journal={Advances in Neural Information Processing Systems},
+  volume={36},
+  year={2024}
 }
 ```
