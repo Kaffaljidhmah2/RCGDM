@@ -1,6 +1,6 @@
 <h1 align='center' style="text-align:center; font-weight:bold; font-size:2.0em;letter-spacing:2.0px;"> Reward-Directed Conditional Diffusion: </br> Provable Distribution Estimation and Reward Improvement </h1>
 <p align='center' style="text-align:center;font-size:1.25em;"> 
-    Hui Yuan  ,&nbsp; 
+    <a href="https://hhhhuiyuan.github.io/" target="_blank" style="text-decoration: none;">Hui Yuan</a> ,&nbsp; 
     <a href="https://hackyhuang.github.io/" target="_blank" style="text-decoration: none;">Kaixuan Huang</a> ,&nbsp; 
     Chengzhuo Ni  ,&nbsp; 
     <a href="https://minshuochen.github.io/" target="_blank" style="text-decoration: none;">Minshuo Chen</a> ,&nbsp; 
